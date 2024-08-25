@@ -4,7 +4,7 @@ const elem = (x) => document.querySelector(x);
 // Initialize the SpeechRecognition API
 const recognition = new (window.SpeechRecognition ||
   window.webkitSpeechRecognition)();
-recognition.lang = "en-GB";
+recognition.lang = "en-US";
 recognition.continuous = true; // Continue recognizing speech
 
 // Get references to DOM elements
