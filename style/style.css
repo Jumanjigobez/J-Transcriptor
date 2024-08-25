@@ -126,6 +126,7 @@ textarea:focus {
 .btn3.active {
   display: flex;
   background-color: transparent;
+  align-self: center;
   border: 2px solid purple;
 }
 .btn3.active:hover {
