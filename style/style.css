@@ -131,6 +131,10 @@ textarea:focus {
 .btn3.active:hover {
   background-color: purple;
 }
+
+  #footer{
+    padding: 1rem;
+  }
 #footer small a {
   text-decoration: none;
   color: var(--green);
