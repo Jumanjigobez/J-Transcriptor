@@ -4,6 +4,12 @@ Dev simply using basics.
 
 Start Now -> [J-Transcriptor](https://jumanjigobez.github.io/J-Transcriptor)
 
+## How To Use
+You can Say:
+- "comma" to insert (,)
+- "full stop" to insert (.)
+- "paragraph" to insert (?)
+
 ## Screenshot
 ![Capture3](https://github.com/user-attachments/assets/ce1730d3-1c37-42c4-af21-a8d57675807f)
 ![Capture4](https://github.com/user-attachments/assets/588b0584-695d-4533-824b-2d31aa5fe8ed)
